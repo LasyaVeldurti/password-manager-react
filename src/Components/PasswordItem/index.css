@@ -1,0 +1,30 @@
+.li-container {
+  border: 1px solid #c3caea;
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  display: flex;
+}
+.name-icon {
+  border-radius: 40px;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px;
+  background-color: #10b981;
+  width: 50px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.delete-btn {
+  background: transparent;
+  border-style: none;
+}
+.delete-img {
+  width: 40px;
+  margin-left: auto;
+}
+.input-details {
+  padding-left: 15px;
+}
